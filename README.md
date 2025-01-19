@@ -15,13 +15,13 @@ Using data analysis and ensemble learning techniques, this project aims to:
 - Predictive Modeling: Application of machine learning algorithms to forecast driver churn.
 - Business Impact: Insights to inform strategies for reducing attrition and fostering driver loyalty.
 <br><br> Learning Objectives
-- Industry Insights: Gain practical knowledge of how ride-sharing platforms operate and their challenges in retaining drivers.
-- Advanced Machine Learning: Understand and implement ensemble learning techniques to boost prediction accuracy beyond standalone models.
+- Industry Insights: Gaining practical knowledge of how ride-sharing platforms operate and their challenges in retaining drivers.
+- Advanced Machine Learning: Understanding and implementing ensemble learning techniques to boost prediction accuracy beyond standalone models.
 - Skill Development:
   - Data preprocessing: Handling missing data and imputations.
   - Managing class imbalances in datasets.
   - Feature engineering for meaningful insights.
   - Model evaluation for robust predictions.
-- Actionable Insights: Learn how to transform raw data into valuable insights that guide business strategies and decisions.
+- Actionable Insights: Learning to transform raw data into valuable insights that guide business strategies and decisions.
 <br><br> Why Engage?
-- This project not only deepens your technical expertise but also bridges the gap between theoretical learning and practical application, making it an invaluable experience for aspiring data scientists and machine learning practitioners.
+- This project not only deepens technical expertise but also bridges the gap between theoretical learning and practical application, making it an invaluable experience for aspiring data scientists and machine learning practitioners.
